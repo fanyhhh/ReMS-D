@@ -1,7 +1,7 @@
 # 4D-SASRM & ReMS-D Dataset
 
 This repository provides an implementation of the method and dataset from the paper:  
-Y. Fan, X. Jin, S. Zou, H. Yu, "Converting a conventional camera to a super-camera: directional atmospheric scattering modeling for passive imaging in intense real-world scattering scenarios," Advanced Photonics Nexus, vol. 4, no. 5, p. 056004, 2025.
+Yihui Fan, Xin Jin, Shun Zou, Haiyang Yu, Converting a conventional camera to a super-camera: directional atmospheric scattering modeling for passive imaging in intense real-world scattering scenarios, Adv. Photon. Nexus 4(5), 056004 (2025), doi: 10.1117/1.APN.4.5.056004.
 
 It includes:
 - 4D Spatial-Angular Scattering Reconstruction Method (4D-SASRM): A computational imaging technique that recovers clear images under severe scattering conditions
