@@ -6,8 +6,7 @@ Yihui Fan, Xin Jin, Shun Zou, Haiyang Yu, Converting a conventional camera to a 
 It includes:
 - 4D Spatial-Angular Scattering Reconstruction Method (4D-SASRM): A computational imaging technique that recovers clear images under severe scattering conditions
 
-- Real-world Multiperspective Scattering Dataset (ReMS-D): A dataset collected in challenging atmospheric scattering scenarios
-Dataset uploading... Link will be updated soon!
+- Real-world Multiperspective Scattering Dataset (ReMS-D): A dataset collected in challenging atmospheric scattering scenarios (Dataset can be download at https://zenodo.org/records/16939453)
 
 # Citation
 
